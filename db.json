@@ -13,11 +13,11 @@
     },
     {"shohinInfoList" : [
       {
-        "comshohinCod": "000",
+        "comshohinCod": "002",
         "comshohinnm2Knj": "商品名称"
       },
       {
-        "comshohinCod": "001",
+        "comshohinCod": "003",
         "comshohinnm2Knj": "商品名称"
       }]
     }
