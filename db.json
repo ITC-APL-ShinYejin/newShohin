@@ -1,0 +1,25 @@
+{
+  "shohinSelectList": [
+    {
+      "shohinInfoList" : [
+      {
+        "comshohinCod": "000",
+        "comshohinnm2Knj": "商品名称"
+      },
+      {
+        "comshohinCod": "001",
+        "comshohinnm2Knj": "商品名称"
+      }]
+    },
+    {"shohinInfoList" : [
+      {
+        "comshohinCod": "000",
+        "comshohinnm2Knj": "商品名称"
+      },
+      {
+        "comshohinCod": "001",
+        "comshohinnm2Knj": "商品名称"
+      }]
+    }
+  ]
+}
