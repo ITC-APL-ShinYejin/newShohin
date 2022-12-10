@@ -4,21 +4,21 @@
       "shohinInfoList" : [
       {
         "comshohinCod": "000",
-        "comshohinnm2Knj": "商品名称"
+        "comshohinnm2Knj": "商品略称－漢字0"
       },
       {
         "comshohinCod": "001",
-        "comshohinnm2Knj": "商品名称"
+        "comshohinnm2Knj": "商品略称－漢字1"
       }]
     },
     {"shohinInfoList" : [
       {
         "comshohinCod": "002",
-        "comshohinnm2Knj": "商品名称"
+        "comshohinnm2Knj": "商品略称－漢字2"
       },
       {
         "comshohinCod": "003",
-        "comshohinnm2Knj": "商品名称"
+        "comshohinnm2Knj": "商品略称－漢字3"
       }]
     }
   ]
