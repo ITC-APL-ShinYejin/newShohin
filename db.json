@@ -3,11 +3,11 @@
     {
       "shohinInfoList" : [
       {
-        "comshohinCod": "000",
+        "comshohinCod": "001",
         "comshohinnm2Knj": "商品略称－漢字0"
       },
       {
-        "comshohinCod": "001",
+        "comshohinCod": "002",
         "comshohinnm2Knj": "商品略称－漢字1"
       }]
     }
